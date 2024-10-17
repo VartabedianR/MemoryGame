@@ -102,7 +102,7 @@
 				frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
 				<div class="front"><img src="'+ v.img +'"\
 				alt="'+ v.name +'" /></div>\
-				<div class="back"><img src="/ressources/Logotest1Fichier1.png"\
+				<div class="back"><img src="/Logotest1Fichier1.png"\
 				alt="Codepen" /></div></div>\
 				</div>';
 			});
@@ -113,62 +113,62 @@
 	var cards = [
 		{
 			name: "astrofraise",
-			img: "/ressources/astrofraise.png",
+			img: "/astrofraise.png",
 			id: 1,
 		},
 		{
 			name: "licorne",
-			img: "/ressources/licorne.png",
+			img: "/licorne.png",
 			id: 2
 		},
 		{
 			name: "ninjadonuts",
-			img: "/ressources/ninjadonuts.png",
+			img: "/ninjadonuts.png",
 			id: 3
 		},
 		{
 			name: "astronautedonuts",
-			img: "/ressources/astronautedonuts.png",
+			img: "/astronautedonuts.png",
 			id: 4
 		}, 
 		{
 			name: "chocolatchaud",
-			img: "/ressources/ChocolatChaud.png",
+			img: "/ChocolatChaud.png",
 			id: 5
 		},
 		{
 			name: "cola",
-			img: "/ressources/cola.png",
+			img: "/cola.png",
 			id: 6
 		},
 		{
 			name: "cookieamoureux",
-			img: "/ressources/cookieamoureux.png",
+			img: "/cookieamoureux.png",
 			id: 7
 		},
 		{
 			name: "enfantbanane",
-			img: "/ressources/enfantbanane.png",
+			img: "/enfantbanane.png",
 			id: 8
 		},
 		{
 			name: "glacevanille",
-			img: "/ressources/GlaceVanille.png",
+			img: "/GlaceVanille.png",
 			id: 9
 		},
 		{
 			name: "guimauveastronaute",
-			img: "/ressources/guimauveastronaute.png",
+			img: "/guimauveastronaute.png",
 			id: 10
 		},
 		{
 			name: "ninjacitron",
-			img: "/ressources/ninjacitron.png",
+			img: "/ninjacitron.png",
 			id: 11
 		},
 		{
 			name: "ninjacoco",
-			img: "/ressources/NinjaCoco.png",
+			img: "/NinjaCoco.png",
 			id: 12
 		},
 	];
